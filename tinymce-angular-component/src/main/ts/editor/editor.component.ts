@@ -123,9 +123,7 @@ export class EditorComponent extends Events implements AfterViewInit, ControlVal
   }
 
   public writeValue(value: string | null): void {
-    if (this._editor && this._editor.initialized) {
-      this._editor.setContent(isNullOrUndefined(value) ? '' : value);
-    } else {
+    if (!this._editor || !this._editor.initialized) {
       this.initialValue = value === null ? undefined : value;
     }
   }
