@@ -1,29 +1,25 @@
-# Official TinyMCE Angular Component
+# Fork Of The Official TinyMCE Angular Component
 
 ## About
+Official Repo [tinymce/tinymce-angular](https://github.com/tinymce/tinymce-angular)
 
 This package is a thin wrapper around [TinyMCE](https://github.com/tinymce/tinymce) to make it easier to use in an Angular application.
 
-* If you need detailed documentation on TinyMCE, see: [TinyMCE Documentation](https://www.tiny.cloud/docs/).
-* For the TinyMCE Angular Quick Start, see: [TinyMCE Documentation - Angular Integration](https://www.tiny.cloud/docs/integrations/angular/#tinymceangularintegrationquickstartguide).
-* For the TinyMCE Angular Technical Reference, see: [TinyMCE Documentation - TinyMCE Angular Technical Reference](https://www.tiny.cloud/docs/integrations/angular/#tinymceangulartechnicalreference).
+* If you need detailed documentation on TinyMCE, see: [TinyMCE Documentation](https://www.tiny.cloud/docs/tinymce/8/).
+* For the TinyMCE Angular Quick Start, see: [TinyMCE Documentation - Angular Integration](https://www.tiny.cloud/docs/tinymce/8/angular-cloud/).
+* For the TinyMCE Angular Technical Reference, see: [TinyMCE Documentation - TinyMCE Angular Technical Reference](https://www.tiny.cloud/docs/tinymce/8/angular-ref/).
 * For our quick demos, check out the TinyMCE Angular [Storybook](https://tinymce.github.io/tinymce-angular/).
 
 ### Support
 
-For Angular 13+, use integration version 5.x:
-
-`npm install @tinymce/tinymce-angular@^5.0.0`
-
-For Angular 9+, use integration version 4.x:
-
-`npm install @tinymce/tinymce-angular@^4.0.0`
-
-For Angular 8 and below use integration version 3.x:
-
-`npm install @tinymce/tinymce-angular@^3.0.0`
-
-Versions below Angular 5 are not supported.
+|Angular version|`tinymce-angular` version|
+|---            |---                      |
+|16+            |8+                       |
+|14+            |7.x                      |
+|13+            |6.x                      |
+|9+             |4.x                      |
+|<= 8           |3.x                      |
+|< 5            | Not supported           |
 
 ### Issues
 
