@@ -1,6 +1,6 @@
 {
-  "description": "Official TinyMCE Angular Component",
-  "author": "Ephox Corporation DBA Tiny Technologies, Inc.",
+  "description": "Fork Of The Official TinyMCE Angular Component",
+  "author": "ZeroRex0126",
   "license": "MIT",
   "scripts": {
     "preinstall": "node -e \"if(process.env.npm_execpath.indexOf('yarn') === -1) throw new Error('You must use Yarn to install, not NPM')\"",
@@ -67,5 +67,5 @@
     "tinymce": "^5.5.0"
   },
   "version": "6.0.0",
-  "name": "@tinymce/tinymce-angular"
+  "name": "@xeroharo/tinymce-angular"
 }
