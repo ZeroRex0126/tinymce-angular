@@ -1,9 +1,9 @@
 {
-  "name": "@tinymce/tinymce-angular",
-  "description": "Official TinyMCE Angular Component",
+  "name": "@xeroharo/tinymce-angular",
+  "description": "Fork Of The Official TinyMCE Angular Component",
   "version": "",
-  "repository": "https://github.com/tinymce/tinymce-angular.git",
-  "author": "Ephox Corporation DBA Tiny Technologies, Inc.",
+  "repository": "https://github.com/ZeroRex0126/tinymce-angular.git",
+  "author": "ZeroRex.",
   "license": "MIT",
   "private": false,
   "peerDependencies": {
