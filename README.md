@@ -1,7 +1,7 @@
-# Official TinyMCE Angular Component
+# Fork Of The Official TinyMCE Angular Component
 
 ## About
-
+Official Repo [tinymce/tinymce-angular](https://github.com/tinymce/tinymce-angular)
 This package is a thin wrapper around [TinyMCE](https://github.com/tinymce/tinymce) to make it easier to use in an Angular application.
 
 * If you need detailed documentation on TinyMCE, see: [TinyMCE Documentation](https://www.tiny.cloud/docs/tinymce/8/).
